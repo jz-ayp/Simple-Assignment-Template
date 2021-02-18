@@ -7,9 +7,9 @@
 # Escribe tu programa a continuación
 
 # Entradas
-a = eval(input("Dame un número: "))
-b = eval(input("Dame otro número: "))
-op = input("¿Que operación? ")
+a = eval(raw_input("Dame un número: "))
+b = eval(raw_input("Dame otro número: "))
+op = raw_input("¿Que operación? ")
 
 # Proceso
 if op.lower() == "sumar":
