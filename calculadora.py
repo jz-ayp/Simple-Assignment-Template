@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # Calculadora
 # Autor: Jorge Zaldívar
 # Fecha: 17/feb/21
