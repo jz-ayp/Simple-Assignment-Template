@@ -3,7 +3,7 @@
     {
       "name": "54+77",
       "setup": "",
-      "run": "python3 calculadora.py",
+      "run": "LANG=en_US.utf8 python3 calculadora.py",
       "input": "54\r\n77\r\nSumar",
       "output": "131",
       "comparison": "included",
