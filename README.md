@@ -49,7 +49,7 @@
 
 1. Complete and submit your program as outlined in this [instructional video](https://youtu.be/SrJ_c8S1_D8).
 
-2. Agrega el diagrama de flujo a la carpeta [flowchart](/flowchart) (puedes ver un ejemplo de como se hace [aquí](https://youtu.be/oy5nhA7QpNI)).
+2. Agrega el diagrama de flujo a la carpeta [flowchart](/flowchart) (puedes ver un ejemplo de cómo se hace [aquí](https://youtu.be/oy5nhA7QpNI)).
 
 3. Agrega el informe en PDF a la carpeta [report](/report).
 
