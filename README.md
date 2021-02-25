@@ -21,7 +21,7 @@
 
 - **Diseña un programa para `<...>`**
 
-- Codifica tu solución en el archivo [exercise.py](/src/exercise) de la carpeta [src](/src).
+- Codifica tu solución en el archivo [main.py](/main.py).
    
 - Utiliza el siguiente ejemplo para dar formato a tus `<user prompt> <output> <file>`:
   ```
@@ -49,7 +49,7 @@
 
 1. Complete and submit your program as outlined in this [instructional video](https://youtu.be/SrJ_c8S1_D8).
 
-2. Agrega el diagrama de flujo a la carpeta ***flowchart*** (puedes ver un ejemplo de como se hace [aquí](https://youtu.be/oy5nhA7QpNI).
+2. Agrega el diagrama de flujo a la carpeta ***flowchart*** (puedes ver un ejemplo de como se hace [aquí](https://youtu.be/oy5nhA7QpNI)).
 
 3. Agrega el informe en PDF a la carpeta ***report***.
 
