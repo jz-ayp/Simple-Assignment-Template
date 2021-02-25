@@ -33,7 +33,7 @@
 - Añade la siguiente cadena de documentación al inicio de tu programa:
   ```
   '''
-  Tarea: Lesson X Programming Assignment
+  Tarea: <Nombre de la tarea y del ejercicio>
   Author: <Tu nombre>
   Fecha de entrega: DD/MM/YYYY
   Grupo: ESI-XXXX-XX
