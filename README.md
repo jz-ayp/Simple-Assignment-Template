@@ -12,14 +12,14 @@
 - Codificar el algoritmo en un programa correcto de Python.
 - Identificar y ejecutar los casos de prueba pertinentes y suficientes para verificar la funcionalidad de la solución propuesta.
 
-- Recognize, Identify, Select, Analyze, Differentiate, Distinguish, Diagram, Examine, Outline, Subdivide, Understand, Demonstrate, Illustrate, Represent, Interpret, Evaluate, Apply, Assess, Chart, Construct, Develop, Implement, Prepare, Provide, Compute, Contribute, Determine, Establish, Include, Produce, Show, Combine, Design, Make, Plan, Compose, Create, Devise, Formulate, 
+- `Recognize, Identify, Select, Analyze, Differentiate, Distinguish, Diagram, Examine, Outline, Subdivide, Understand, Demonstrate, Illustrate, Represent, Interpret, Evaluate, Apply, Assess, Chart, Construct, Develop, Implement, Prepare, Provide, Compute, Contribute, Determine, Establish, Include, Produce, Show, Combine, Design, Make, Plan, Compose, Create, Devise, Formulate, `
 
 ## Instrucciones
 - Elabora el análisis y el algoritmo ***antes de escribir el código***. Utiliza un diagrama de flujo para representar tu algoritmo e ilustrar su lógica.
     - [diagrams.net](https://app.diagrams.net/) es una herramienta gratuita y fácil de usar con la que puedes crear diagramas de flujo. 
     - Puedes ver un ejemplo de como subir diagramas de flujo a GitHub [aquí](https://youtu.be/oy5nhA7QpNI).
 
-- **Diseña un programa para `<...>`**
+- **Diseña un programa para `<...>`**.
 
 - Codifica tu solución en el archivo [`main.py`](/main.py).
    
@@ -47,7 +47,7 @@
 ## Entrega
 1. Completa este y el resto de los ejercicios y compila, para cada ejercicio, el enunciado, análisis, diagrama de flujo y código, en un informe tal como se describe en los [requisitos para entrega de tareas](https://canvas.iteso.mx/courses/12856/modules/items/418369) en Canvas. También los puedes consultar [aquí](/report/report_example.pdf). No olvides incluir portada y conclusiones.
 
-1. Complete and submit your program as outlined in this [instructional video](https://youtu.be/SrJ_c8S1_D8).
+`1. Complete and submit your program as outlined in this [instructional video](https://youtu.be/SrJ_c8S1_D8).`
 
 2. Agrega el diagrama de flujo a la carpeta [`flowchart`](/flowchart) (puedes ver un [ejemplo de cómo se hace](https://youtu.be/oy5nhA7QpNI)).
 
@@ -75,7 +75,7 @@ Verifica tu entrega contra esta rúbrica para maximizar tu calificación. Los pu
 | Pruebas de ejecución:<br>- son suficientes para comprobar la funcionalidad del programa,<br>- al menos una de las capturas de pantalla muestra el escritorio completo, y<br>- son legibles. | 15 |
 | Funcionalidad:<br>- pasa los casos de prueba de ejemplo, y<br>- pasa los casos de prueba reservados por el profesor. | 30 |
 
-Con estos criterios, la ponderación aproximada de los distintos elementos queda de la siguiente manera:
+Estos puntajes son equivalentes, aproximadamente, a la siguiente ponderación:
 - Presentación: 20%
 - Funcionalidad: 60%
 - Pruebas: 20%
