@@ -61,10 +61,6 @@
 | `entrada31`<br>`entrada32`<br>`entrada33`  | `salida21`<br>`salida22` |
 
 ## Rúbrica
-- Presentación: 20%
-- Funcionalidad: 60%
-- Pruebas: 20%
-
 Verifica tu entrega contra esta rúbrica para maximizar tu calificación. Los puntos se indican en porcentaje.
 
 | Criterio | Puntos |
@@ -78,3 +74,8 @@ Verifica tu entrega contra esta rúbrica para maximizar tu calificación. Los pu
 | Diagrama de flujo:<br>- es claro y legible,<br>- corresponde con la lógica del programa,<br>- usa las formas geométricas correctas, y<br>- está en formato png<br>[Cómo subir diagramas de flujo a GitHub](https://youtu.be/oy5nhA7QpNI) | 15 |
 | Pruebas de ejecución:<br>- son suficientes para comprobar la funcionalidad del programa,<br>- al menos una de las capturas de pantalla muestra el escritorio completo, y<br>- son legibles. | 15 |
 | Funcionalidad:<br>- pasa los casos de prueba de ejemplo, y<br>- pasa los casos de prueba reservados por el profesor. | 30 |
+
+Con estos criterios, la ponderación aproximada de los distintos elementos queda de la siguiente manera:
+- Presentación: 20%
+- Funcionalidad: 60%
+- Pruebas: 20%
