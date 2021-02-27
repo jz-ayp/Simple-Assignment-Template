@@ -23,7 +23,7 @@
 
 - Codifica tu solución en el archivo [`main.py`](/main.py).
    
-- Utiliza el siguiente ejemplo para dar formato a tus `<user prompt> <output> <file>`:
+- Utiliza los siguientes ejemplos para dar formato a tus entradas y salidas `<user prompt> <output> <file>`:
   ```
   <format example>
   ```
