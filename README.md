@@ -34,7 +34,7 @@
   ```
   '''
   Tarea: <Nombre de la tarea y del ejercicio>
-  Author: <Tu nombre>
+  Autor: <Tu nombre>
   Fecha de entrega: DD/MM/YYYY
   Grupo: ESI-XXXX-XX
   Profesor: XXX
