@@ -17,7 +17,8 @@
 ## Instrucciones
 - Elabora el análisis y el algoritmo ***antes de escribir el código***. Utiliza un diagrama de flujo para representar tu algoritmo e ilustrar su lógica.
     - [diagrams.net](https://app.diagrams.net/) es una herramienta gratuita y fácil de usar con la que puedes crear diagramas de flujo. 
-    - Puedes ver un ejemplo de como subir diagramas de flujo a GitHub [aquí](https://youtu.be/oy5nhA7QpNI).
+    - Con la extensión Draw.io Integration de Henning Dietrichs puedes utilizar diagrams.net directamente desde VS Code. Si creas tu archivo con la extensión `.drawio.png`, tu diagrama quedará automáticamente en formato png pero será un archivo editable.
+    - Si decides utilizar directamente el sitio [diagrams.net](https://app.diagrams.net/), puedes ver un ejemplo de cómo subir los diagramas de flujo a GitHub [aquí](https://youtu.be/oy5nhA7QpNI).
 
 - **Diseña un programa para `<...>`**.
 
@@ -45,7 +46,7 @@
   ```
   
 ## Entrega
-1. Completa este y el resto de los ejercicios y compila, para cada ejercicio, el enunciado, análisis, diagrama de flujo y código, en un informe tal como se describe en los [requisitos para entrega de tareas](https://canvas.iteso.mx/courses/12856/modules/items/418369) en Canvas. También los puedes consultar [aquí](/report/report_example.pdf). No olvides incluir portada y conclusiones.
+1. Completa este y el resto de los ejercicios y compila, para cada ejercicio, el enunciado, análisis, diagrama de flujo y código, en un informe tal como se describe en los [requisitos para entrega de tareas](/report/report_example.pdf) en Canvas. No olvides incluir portada y conclusiones.
 
 `1. Complete and submit your program as outlined in this [instructional video](https://youtu.be/SrJ_c8S1_D8).`
 
