@@ -17,7 +17,7 @@
 ## Instrucciones
 - Elabora el análisis y el algoritmo ***antes de escribir el código***. Utiliza un diagrama de flujo para representar tu algoritmo e ilustrar su lógica.
     - [diagrams.net](https://app.diagrams.net/) es una herramienta gratuita y fácil de usar con la que puedes crear diagramas de flujo. 
-    - Con la extensión Draw.io Integration de Henning Dietrichs puedes utilizar diagrams.net directamente desde VS Code. Si creas tu archivo con la extensión `.drawio.png`, tu diagrama quedará automáticamente en formato png pero será un archivo editable.
+    - Con la extensión Draw<span>.</span>io Integration de Henning Dietrichs puedes utilizar diagrams.net directamente desde VS Code. Si creas tu archivo con la extensión `.drawio.png`, tu diagrama quedará automáticamente en formato png pero será un archivo editable.
     - Si decides utilizar directamente el sitio [diagrams.net](https://app.diagrams.net/), puedes ver un ejemplo de cómo subir los diagramas de flujo a GitHub [aquí](https://youtu.be/oy5nhA7QpNI).
 
 - **Diseña un programa para `<...>`**.
