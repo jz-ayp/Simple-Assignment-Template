@@ -1,0 +1,68 @@
+# Sample autograding workflow from Catherine Leung
+# Source: https://cemc-gitdemo.github.io/github-classroom-notes/actions
+
+# Prerequisites:
+#     1. Create a second github account who's only job is to read the tester repo.
+#     2. Create a private tester repo within your organization (the same one the student
+#        assignments are under)
+#     3. Place your testers into the private repository called testers
+#     4. Add your second github account to the private repo and give that second account
+#        read access
+#     5. Using the second account generate a repo scope classic token
+#     6. Add the token as an Organization Secret naming the secret Tester-Access
+#     7. Modify the following [this] yml file to
+#         - copy out the student's programming file(s) and your tester file(s)
+#         - compile and/or run program
+#         - in this file the program name is a1.py and the tester is test_a1.py
+
+
+# This is a basic workflow to help you get started with Actions
+
+name: Assignment 1
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+    paths:
+      - 'a1.py'
+      
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'a1.py'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+        with:
+          path: ./assignment
+
+      - name: Checkout Tester
+        uses: actions/checkout@v4
+        with:
+          repository: CEMC-GitDemo/testers
+          token: ${{ secrets.TESTER_ACCESS }}
+          path: ./tester
+
+      - name: Copy python tester files
+        run: cp ./tester/test_a1.py ./
+
+      - name: Copy assignment files
+        run: cp ./assignment/a1.py ./
+
+
+      - name: Run tester
+        run: python test_a1.py
