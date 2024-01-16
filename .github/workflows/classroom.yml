@@ -23,7 +23,7 @@ jobs:
     if: ${{ !github.event.repository.is_template }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: education/autograding@v1
     env:
       LANG: C.UTF-8
